@@ -1,2 +1,9 @@
-let transporter = nodemailer.crearTransport(transport[, defaults])
 document.querySelector('button').addEventListener('click', emailRes)
+
+let transporter = nodemailer.crearTransport(transport[, defaults])
+let receiver = document.querySelector('#fname').
+
+let response = {
+    from: "sender@email.com",
+    to: 
+}
