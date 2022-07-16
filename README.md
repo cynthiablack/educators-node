@@ -14,3 +14,6 @@ This is a node project created by a group of educators taking part in 100devs 20
 2. morkmer - A.K.A Cynthia Black
     ~ https://github.com/cynthiablack
     
+3. apedley2006 - A.K.A. Andrew Pedley
+    ~ https://github.com/apedley2006
+
