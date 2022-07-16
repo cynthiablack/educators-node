@@ -1,5 +1,5 @@
 
-document.querySelector('button').addEventListener('click', emailRes)
+document.querySelector('button').addEventListener('click', emailRes) 
 
 
 
