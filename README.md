@@ -20,3 +20,5 @@ This is a node project created by a group of educators taking part in 100devs 20
 4. monicacodes- A.K.A. Monica Zheng 
     ~ https://github.com/monicacodes
 
+4. CStrattCode - A.K.A. Catherine Strattner
+    ~ https://github.com/CStrattCode
