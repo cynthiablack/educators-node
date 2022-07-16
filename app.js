@@ -1,4 +1,4 @@
-
+document.querySelector('button').addEventListener('click', emailRes)
 
 
 let receiver = document.querySelector('#fname').value + document.querySelector('#lname').value
@@ -13,3 +13,4 @@ let transporter = nodemailer.createTransport(
     subject: "Thanks for Reaching Out!",
     text: 
 }, defaults})
+
