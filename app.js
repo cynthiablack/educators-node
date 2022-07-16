@@ -1,4 +1,4 @@
-
+document.querySelector('button').addEventListener('click', emailRes)
 
 
 let receiver = document.querySelector('#fname').value + document.querySelector('#lname').value
