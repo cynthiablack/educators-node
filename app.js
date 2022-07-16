@@ -1,4 +1,7 @@
 
+document.querySelector('button').addEventListener('click', emailRes)
+
+
 
 let transporter = nodemailer.createTransport(transport[, defaults])
 let receiver = document.querySelector('#fname').value + document.querySelector('#lname').value
