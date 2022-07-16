@@ -5,10 +5,11 @@ let receiver = document.querySelector('#fname').value + document.querySelector('
 let receiverEmail = document.querySelector('#email').value
 
 
-let transporter = nodemailer.createTransport(transport[, defaults])
-let response = {
+let transporter = nodemailer.createTransport(
+    
+    transport.sendMail({
     from: "sender@email.com",
     to: receiverEmail,
     subject: "Thanks for Reaching Out!",
     text: 
-} 
+}, defaults})
