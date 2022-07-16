@@ -1,0 +1,80 @@
+body {
+    background: hsla(216, 96%, 56%, 1);
+    background: linear-gradient(90deg, hsla(216, 96%, 56%, 1) 0%, hsla(178, 64%, 65%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(216, 96%, 56%, 1) 0%, hsla(178, 64%, 65%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(216, 96%, 56%, 1) 0%, hsla(178, 64%, 65%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#2278FB", endColorstr="#6BDFDB", GradientType=1 );
+    font-family: 'Source Sans Pro', sans-serif;
+    display: flex;
+    align-content: center;
+}
+
+button {
+    border-radius: 15px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    display: block;
+    margin: auto;
+    text-transform: uppercase;
+}
+
+button:hover {
+    background: hsla(216, 96%, 56%, 1);
+    background: linear-gradient(90deg, hsla(216, 96%, 56%, 1) 0%, hsla(178, 64%, 65%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(216, 96%, 56%, 1) 0%, hsla(178, 64%, 65%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(216, 96%, 56%, 1) 0%, hsla(178, 64%, 65%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#2278FB", endColorstr="#6BDFDB", GradientType=1 );
+}
+
+.centered {
+    clear: both;
+    display: block;
+    margin-left: 5vw;
+    padding-top: 2vh;
+}
+
+#email {
+    margin-top: 2vh;
+    min-width: 80%;
+}
+
+form {
+    background-color:rgb(233, 250, 249);
+    border-radius: 15px;
+    color:rgb(28, 32, 32);
+    display: inline-block;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: auto;
+    max-width: 60vw;
+    padding: 2%;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+}
+
+label.message {
+    display: block;
+}
+
+input {
+    border:rgb(70, 81, 81) 1px solid 85;
+    border-radius: 5px;
+    min-height: 5vh;
+    text-transform: uppercase;
+}
+
+textarea {
+    margin:2vh 5vw;
+    min-width: 80%;
+    padding: 2vh;
+}
