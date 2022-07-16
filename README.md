@@ -17,3 +17,5 @@ This is a node project created by a group of educators taking part in 100devs 20
 3. apedley2006 - A.K.A. Andrew Pedley
     ~ https://github.com/apedley2006
 
+4. CStrattCode - A.K.A. Catherine Strattner
+    ~ https://github.com/CStrattCode
