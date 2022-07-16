@@ -11,10 +11,10 @@ let receiverEmail = document.querySelector('#email').value
         path: '/usr/sbin/sendmail'
     })
     
-    transport.sendMail({
+    transporter.sendMail({
     from: "sender@email.com",
     to: receiverEmail,
     subject: "Thanks for Reaching Out!",
-    text: 
+    text: "We have received your message and will reach out to you with futher information soon."
     })
 
